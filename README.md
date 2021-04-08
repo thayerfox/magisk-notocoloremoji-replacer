@@ -1,6 +1,11 @@
-# !!DEPRECATED!!
+# !!!REVIVED!!!
 
-Please use https://github.com/Magisk-Modules-Repo/Fontchanger and this repo is no longer maintained.
+Blobmoji is dead!  Long live Blobmoji!
+
+Since simonsmh is no longer maintaining this module, and since Fontchanger has been deleted, this is an attempt to revive the project.
+
+~~# !!DEPRECATED!!~~
+~~Please use https://github.com/Magisk-Modules-Repo/Fontchanger and this repo is no longer maintained.~~
 
 # Blobmoji
 
