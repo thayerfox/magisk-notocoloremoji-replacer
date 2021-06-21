@@ -1,17 +1,33 @@
-#### NotoColorEmoji Blob Patch
+# !!!REVIVED!!!
 
-Latest NotoColorEmoji with blobs back again! You can use both Unicode 10.0 and blob emoji now.  
-NotoColorEmoji Latest + Blob patch for Marshmallow, Nougat and Oreo devices.
-Fonts are provided by [Google](https://github.com/googlei18n/noto-emoji).
+Blobmoji is dead!  Long live Blobmoji!
 
-#### NOTICE
+Since simonsmh is no longer maintaining this module, and since Fontchanger has been deleted, this is an attempt to revive the project.
 
-* You should use latest Magisk Manager to install this module. If you meet any problem under installation from Magisk Manager, please try to install it from recovery. When you are trying to uninstall or reinstall this module, be sure to delete /magisk/.core/fonts.xml first.
-* Recent fixes:  
-Fix for magisk 15.3
+# Blobmoji
 
-#### Credit & Support
+![Noto Emoji with Blobs enabled](https://github.com/C1710/blobmoji/raw/emoji12/images/noto.png)
 
-* Copyright (C) 2017 simonsmh <simonsmh@gmail.com>
+This repository is intended to continue the development of the Blob emojis which have been abandoned by the original creators in 2017.
+
+My goal is to upgrade the Blob emojis with a fresh style which is consistent to other emoji vendors.
+
+Another thing is that this emoji set includes some emojis and ZWJ-sequences which are not part of the current emoji standard (although some or most of them are about to be included in the upcoming Unicode-standard), which means it might be one of the biggest emoji sets currently available!
+
+NotoColorEmoji fonts are provided by [C1710's project](https://github.com/C1710/blobmoji).
+
+Most information on this fork will be included in the [Wiki](https://github.com/C1710/blobmoji/wiki). There you'll find more detailed build instructions and other helpful information on how to use this font and much more.
+If you want to use this font - there's a [Wiki page](https://github.com/C1710/blobmoji/wiki/Installation-Usage) :D
+
+## NOTICE
+
+* You should use latest Magisk Manager to install this module. If you meet any problem under installation from Magisk Manager, please try to install it from recovery.
+* Recent fixes:
+Update project structure.
+
+## Credit & Support
+* Blobmoji Font created by C1710.
+* Original Magisk Blobmoji Module Copyright (C) 2018-2020 simonsmh.
+* Blobmoji Magisk Revive by thayerfox.
 * Any issue or pull request is welcomed.
-* Star this module at [GitHub](https://github.com/Magisk-Modules-Repo/magisk-notocoloremoji-replacer).
+* Star this module at [GitHub](https://github.com/thayerfox/magisk-notocoloremoji-replacer).
