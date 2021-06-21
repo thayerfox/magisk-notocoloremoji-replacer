@@ -1,6 +1,6 @@
 id=blobmoji
 name=Blobmoji
-version=da528f9 (Jun 15, 2019)
-versionCode=16
-author=C1710 (ported by simonsmh)
-description=Noto Color Emoji with Blobs enabled.
+version=13.1 Prerelease
+versionCode=13.1.0
+author=C1710 (ported by simonsmh)(revived by thayerfox)
+description=Long live the BLOBS!  NotoColorEmoji with Blobs enabled.  Emoji version 13.1 prerelease.
