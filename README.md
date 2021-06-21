@@ -4,9 +4,6 @@ Blobmoji is dead!  Long live Blobmoji!
 
 Since simonsmh is no longer maintaining this module, and since Fontchanger has been deleted, this is an attempt to revive the project.
 
-~~# !!DEPRECATED!!~~
-~~Please use https://github.com/Magisk-Modules-Repo/Fontchanger and this repo is no longer maintained.~~
-
 # Blobmoji
 
 ![Noto Emoji with Blobs enabled](https://github.com/C1710/blobmoji/raw/emoji12/images/noto.png)
@@ -29,7 +26,8 @@ If you want to use this font - there's a [Wiki page](https://github.com/C1710/bl
 Update project structure.
 
 ## Credit & Support
-
-* Copyright (C) 2018-2020 simonsmh
+* Blobmoji Font created by C1710.
+* Original Magisk Blobmoji Module Copyright (C) 2018-2020 simonsmh.
+* Blobmoji Magisk Revive by thayerfox.
 * Any issue or pull request is welcomed.
-* Star this module at [GitHub](https://github.com/Magisk-Modules-Repo/blobmoji).
+* Star this module at [GitHub](https://github.com/thayerfox/magisk-notocoloremoji-replacer).
